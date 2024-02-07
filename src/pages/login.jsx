@@ -40,7 +40,7 @@ const Login = () => {
           <div className="gap-6 mb-2">
             <div className="mb-3">
               <label
-                for="email"
+                htmlFor="email"
                 className=" relative block  text-black/50 focus-within:text-[#333]"
               >
                 <svg
@@ -89,7 +89,7 @@ const Login = () => {
 
             <div className="mb-3">
               <label
-                for="password"
+                htmlFor="password"
                 className=" relative text-black/50 focus-within:text-[#333] block "
               >
                 <svg
